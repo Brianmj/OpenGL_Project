@@ -1,0 +1,10 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DGL_SILENCE_DEPRECATION=1 -G "CodeBlocks - Unix Makefiles" /Users/brianmj/CLionProjects/OpenGL
+SILENCING OPENGL
+SDL2 was found, it was found
+/opt/homebrew/Cellar/sdl2/2.0.14_1/include/SDL2
+SDL2 IMAGE was found
+/Library/Frameworks/SDL2_image.framework/Headers
+/Library/Frameworks/SDL2_image.framework
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/brianmj/CLionProjects/OpenGL/cmake-build-debug
