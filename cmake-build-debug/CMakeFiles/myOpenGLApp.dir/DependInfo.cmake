@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/brianmj/CLionProjects/OpenGL/app.cpp" "/Users/brianmj/CLionProjects/OpenGL/cmake-build-debug/CMakeFiles/myOpenGLApp.dir/app.cpp.o"
-  "/Users/brianmj/CLionProjects/OpenGL/main.cpp" "/Users/brianmj/CLionProjects/OpenGL/cmake-build-debug/CMakeFiles/myOpenGLApp.dir/main.cpp.o"
+  "/Users/brianmj/CLionProjects/test_gl/app.cpp" "/Users/brianmj/CLionProjects/test_gl/cmake-build-debug/CMakeFiles/myOpenGLApp.dir/app.cpp.o"
+  "/Users/brianmj/CLionProjects/test_gl/main.cpp" "/Users/brianmj/CLionProjects/test_gl/cmake-build-debug/CMakeFiles/myOpenGLApp.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_CXX

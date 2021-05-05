@@ -5,7 +5,7 @@
 #include <knu/window2.hpp>
 #include <knu/gl_utility.hpp>
 #include <knu/mathlibrary6.hpp>
-#include "knu/knu_texture.hpp"
+//#include "knu/knu_texture.hpp"        // uncomment when ready
 
 #ifdef _WIN32
 #define MAJOR_VERSION 4

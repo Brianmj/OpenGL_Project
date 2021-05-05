@@ -8,6 +8,10 @@ void main_app::general_setup()
 {
     load_shaders();
     glEnable(GL_DEPTH_TEST);
+
+    GLuint pbo = 0;
+    glGenBuffers(1, &pbo);
+    glBindBuffer(GL_PIXEL_UNPACK_BUFFER, pbo);
     
 }
 

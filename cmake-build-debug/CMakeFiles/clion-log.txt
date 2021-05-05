@@ -1,5 +1,27 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DGL_SILENCE_DEPRECATION=1 -G "CodeBlocks - Unix Makefiles" /Users/brianmj/CLionProjects/OpenGL
+"/Users/brianmj/Library/Application Support/JetBrains/Toolbox/apps/CLion-ARM/ch-0/211.6693.114/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/opt/homebrew/Cellar/gcc/10.2.0_4/bin/gcc-10 -DCMAKE_CXX_COMPILER=/opt/homebrew/Cellar/gcc/10.2.0_4/bin/g++-10 -DGL_SILENCE_DEPRECATION=1 -G "CodeBlocks - Unix Makefiles" /Users/brianmj/CLionProjects/test_gl
+-- The C compiler identification is GNU 10.2.1
+-- The CXX compiler identification is GNU 10.2.1
+-- Checking whether C compiler has -isysroot
+-- Checking whether C compiler has -isysroot - yes
+-- Checking whether C compiler supports OSX deployment target flag
+-- Checking whether C compiler supports OSX deployment target flag - yes
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /opt/homebrew/Cellar/gcc/10.2.0_4/bin/gcc-10 - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Checking whether CXX compiler has -isysroot
+-- Checking whether CXX compiler has -isysroot - yes
+-- Checking whether CXX compiler supports OSX deployment target flag
+-- Checking whether CXX compiler supports OSX deployment target flag - yes
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /opt/homebrew/Cellar/gcc/10.2.0_4/bin/g++-10 - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
 SILENCING OPENGL
+-- Found OpenGL: /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/OpenGL.framework   
+-- Found SDL2_image: /Library/Frameworks/SDL2_image.framework  
 SDL2 was found, it was found
 /opt/homebrew/Cellar/sdl2/2.0.14_1/include/SDL2
 SDL2 IMAGE was found
@@ -7,4 +29,4 @@ SDL2 IMAGE was found
 /Library/Frameworks/SDL2_image.framework
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/brianmj/CLionProjects/OpenGL/cmake-build-debug
+-- Build files have been written to: /Users/brianmj/CLionProjects/test_gl/cmake-build-debug
